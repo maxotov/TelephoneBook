@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/TelephoneBook" reloadable="true">
+<Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="200" maxIdle="10" maxWait="5" name="jdbc/mysql" password="" removeAbandoned="true" removeAbandonedTimeout="1200" type="javax.sql.DataSource" url="jdbc:mysql://localhost/phone_book?characterEncoding=UTF-8" username="root"/>
+</Context>

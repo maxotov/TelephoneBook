@@ -1,0 +1,43 @@
+.main_table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #ABADB3;
+}
+.main_table tr:nth-of-type(odd) {
+    background-color: #E8EDFF;
+}
+
+#forForm{
+    border: 1px solid orangered;
+    width: 297px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border-radius: 10px;
+
+}
+
+.layer {
+    overflow: auto; 
+    width: 490px; 
+    height: 375px; 
+    padding: 5px; 
+    border: solid 1px silver;
+    margin-top: 22px;
+}
+.new{
+    background-color: #fff;  
+}
+
+.send {
+    width:150px;
+    height:37px;
+    background: #8ea6f1;
+    line-height:37px;		
+    border:none;
+    cursor:pointer;
+    text-align:center;
+}
+root { 
+    display: block;
+}
+
